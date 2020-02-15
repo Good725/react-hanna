@@ -10,7 +10,7 @@ Hanna-nouveau is distributed as a ruby gem:
 
     gem install hanna-nouveau
 
-The template was created by {Mislav}[http://mislav.uniqpath.com/] and since then
+The template was created by {jjj} and since then
 has seen contributions from:
 
 1. {Tony Strauss}[http://github.com/DesigningPatterns], who participated from
